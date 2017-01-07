@@ -28,7 +28,7 @@ def retAverage(last):
 
     global averageLast
 
-    if len(averageLast) == 5:
+    if len(averageLast) == maxAvgLast:
         del averageLast[-1]
         averageLast = [last] + averageLast
     else:
