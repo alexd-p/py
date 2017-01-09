@@ -30,9 +30,8 @@ def retAverage(last):
 
     if len(averageLast) == maxAvgLast:
         del averageLast[-1]
-        averageLast = [last] + averageLast
-    else:
-        averageLast = [last] + averageLast
+
+    averageLast = [last] + averageLast
 
     total = 0
     for item in averageLast:
