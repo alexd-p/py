@@ -1,0 +1,129 @@
+0‚#-	*†H†÷
+ ‚#0‚#10+0	`†He0‚½	*†H†÷
+ ‚®‚ª<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applebetasoftware</string>
+				<key>PayloadType</key>
+				<string>com.apple.defaults.managed</string>
+				<key>PayloadUUID</key>
+				<string>C9F7A577-233F-4E28-B717-EE485930E21D</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadContent</key>
+				<array>
+					<dict>
+						<key>DefaultsDomainName</key>
+						<string>.GlobalPreferences</string>
+						<key>DefaultsData</key>
+						<dict>
+							<key>SeedGroup</key>
+							<string>PublicBeta</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>DefaultsDomainName</key>
+						<string>com.apple.seeding</string>
+						<key>DefaultsData</key>
+						<dict>
+							<key>SeedProgram</key>
+							<string>DeveloperSeed</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>DefaultsDomainName</key>
+						<string>com.apple.MobileAsset</string>
+						<key>DefaultsData</key>
+						<dict>
+							<key>MobileAssetSUAllowOSVersionChange</key>
+							<false/>
+							<key>MobileAssetSUAllowSameVersionFullReplacement</key>
+							<false/>
+							<key>MobileAssetServerURL-com.apple.MobileAsset.SoftwareUpdateDocumentation</key>
+							<string>https://mesu.apple.com/assets/iOS11DeveloperSeed</string>
+							<key>MobileAssetServerURL-com.apple.MobileAsset.SoftwareUpdate</key>
+							<string>https://mesu.apple.com/assets/iOS11DeveloperSeed</string>
+							<key>MobileAssetServerURL-com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain</key>
+							<string>https://mesu.apple.com/assets/iOS11DeveloperSeed</string>
+							<key>MobileAssetAssetAudience</key>
+							<string>b7580fda-59d3-43ae-9488-a81b825e3c73</string>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Configures your iOS device for use with the Apple Beta Software Program.</string>
+		<key>PayloadDisplayName</key>
+		<string>iOS Beta Software Profile</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.applebetasoftware</string>
+		<key>PayloadOrganization</key>
+		<string>Apple Inc.</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>C9F7A577-233F-4E28-B717-EE485930E21D</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>iOS Beta is pre-release software.  Your use is subject to and licensed only under the terms and conditions of the iOS Beta Software License Agreement ("iOS BSLA"), including any applicable consent to collect diagnostic data set forth therein.  If you have not agreed to the iOS BSLA, you are not permitted to use this software.  By installing iOS Beta and submitting feedback through Feedback Assistant, you consent to Apple's use of your information in accordance with its privacy policy (http://www.apple.com/legal/privacy).Installing this iOS Beta Software Profile will allow you to install the iOS Beta on your device and may provide you with access to Apple tools so that you may help Apple troubleshoot issues with your device and help Apple to improve iOS and related products and services.This version of iOS is only for use by members of the Apple Developer Program or Apple Beta Software Program.  Attempting to install this version of iOS in an unauthorized manner could put your device in an unusable state, which could necessitate an out of warranty repair. Please be sure to backup your devices using the latest version of iTunes and archive that backup prior to installing the iOS Beta release.  Devices updated to iOS Beta cannot be restored to the current publicly available version of iOS without restoring the device to its factory settings and data created after the installation of the Beta software may be lost or unrecoverable on an earlier version of iOS.  Please refer to the Apple Developer Program or Apple Beta Software Program websites for more information about restoring your device, or visit: httpss://support.apple.com/en-us/HT203282
+			</string>
+			<key>en</key>
+			<string>iOS Beta is pre-release software.  Your use is subject to and licensed only under the terms and conditions of the iOS Beta Software License Agreement ("iOS BSLA"), including any applicable consent to collect diagnostic data set forth therein.  If you have not agreed to the iOS BSLA, you are not permitted to use this software.  By installing iOS Beta and submitting feedback through Feedback Assistant, you consent to Apple's use of your information in accordance with its privacy policy (http://www.apple.com/legal/privacy).Installing this iOS Beta Software Profile will allow you to install the iOS Beta on your device and may provide you with access to Apple tools so that you may help Apple troubleshoot issues with your device and help Apple to improve iOS and related products and services.This version of iOS is only for use by members of the Apple Developer Program or Apple Beta Software Program.  Attempting to install this version of iOS in an unauthorized manner could put your device in an unusable state, which could necessitate an out of warranty repair. Please be sure to backup your devices using the latest version of iTunes and archive that backup prior to installing the iOS Beta release.  Devices updated to iOS Beta cannot be restored to the current publicly available version of iOS without restoring the device to its factory settings and data created after the installation of the Beta software may be lost or unrecoverable on an earlier version of iOS.  Please refer to the Apple Developer Program or Apple Beta Software Program websites for more information about restoring your device, or visit: httpss://support.apple.com/en-us/HT203282
+			</string>
+		</dict>
+		<key>RemovalDate</key>
+		<date>2018-05-18T07:15:00Z</date>
+		<key>PayloadRebootSuggested</key>
+		<true/>
+	</dict>
+</plist>
+ ‚	s0‚0‚  ¹ûe‘J˜i0
+	*†H†÷
+ 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10U
+Apple Root CA0
+130524174337Z
+280524174337Z0Œ1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ¸H¡glVåpÅFô¯…ã½:Þ¡çÙ¨6<b¥| G³k¬þØtæ5°XOtØ£þí-î¤s%YÔ–Ü&Ï'‹TœÜ’±à3b™È¹¯6¤j‘§mÝÝ-Ì}Ì)‰£É™ª¢ìÙgi<¿D($±Ä,5Ö± %ïP§Û%ÆÃOo[‡¾*ñ“§Ôl^²9.©ám;®9q?ó¹ôW# O™ƒ^ŸðX¾µÑì×²~Âeâñì<¦ünÛV³î
+²KÉ¢ðñ1ö®Þ5lÃ€^Pc¶ºm\ÀãŸ&ƒJÞ›©°Zoû›kìÝß2Þü.B¢ÊxZ× £¦0£0U÷¾|!`‘Û={Ø:2ißžl›0Uÿ0ÿ0U#0€+ÐiG”v	þôk.@¦÷GM^0.U'0%0# ! †http://crl.apple.com/root.crl0Uÿ0
+*†H†÷cd 0
+	*†H†÷
+ ‚ •Íý¤]õñÀ‡I‡Ý³3“­„Ð!“ãÙÖÚ¯	"‚`
+<YBñ-“¶?ÿô*ôîjxÁ.û;L®eCËÏ¨ë=7E/J¨ˆkâšÛïg¸ñäØ†qwÓó‰à¯¤ê(¤?4ye6ƒTAq×!ÜPUEÎŽ¼÷ÜUÐ³Ê(Q¬sQ¬y‹n’ 7	a1/¡Ñºëá\7ÀØÑçàRB¤”‹ö`"`| À?Á•…ÕÂ'c°bV™í%ôÌˆ™™ÜT·yè…8@Â¹íMbÔ+ö)ñg¡árwö ”+Qˆ„Sòó’	„óè¿¡&Ïü’7»@0‚S0‚; Fò¬\Ÿ•m0
+	*†H†÷
+ 0Œ1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0
+160512172120Z
+190512172120Z0s1.0,U%AppleCare Profile Signing Certificate10UConfiguration Profiles10U
+
+Apple Inc.10	UUS0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ÈwS*Æaþè¹ZIçU˜®µ9·\S±|p{Ë¼¨œ«qcY
+²Ï[ö½šðAQZû­€ŸMc´çXnÖ+RT¢Ð: R_»œ­¼ò0ôg¼K¿¢¤]d7Ñ@Hé8Qi@-‰ÍùO?Ç	ÿpˆ¶Æué›~Úè!Ó0iÂvDaOZèí+n-€ GŠ7hgÖâÈ2q AÀÑ‰„	Õ€tÈ‘TðX"ÊÞåJûªe!Ï®¢4ˆgW.±:sØ¯nÐ~Äš"fÎ´-}Ùò‡Ú}B]äóÛ—ùznå¾3nVí¨ÃtGÉ±F)éªŒ'qŽˆ:” £‚Ï0‚Ë0@+40200+0†$http://ocsp.apple.com/ocsp04-aaica020U	¶(4%<ã‡Fƒ¨Ðc†ª8¯0Uÿ0 0U#0€÷¾|!`‘Û={Ø:2ißžl›0‚U ‚0‚0þ	*†H†÷cd0ð0(+http://www.apple.com/appleca0Ã+0¶³Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0Uÿ€0U%ÿ
+0	*†H†÷cd0
+	*†H†÷
+ ‚ qc…V5¼ëœÍCé»M0ù pCYPæ2Æ
+µ—â%½wù³âÛa$ÈDó…Uj´ÕÙê;…„%CÿK_uÑ=u¹è›0©ë‘Ûc,ô©ŸG¯öÐ‚ËZ6ÏÍ2±Äa§¡•U íÜD˜p'žú&ògmÍÝÑ
+9Ñö‚0—ö«ÃŒ6*SÒ»ß'!í³ô
+ù)Ãz¾õF”P‚Ê¦:ÆÐN!HÛ›h†¾R@>Ðéè¯¥¾OÁÏ1Á‘)#àS©<½a8YjÍºúÃ¾iä€ 0"Â	•"ø®>ðÿZþ™ì¶;êÕìŸØy  «ææûè©:¡†ú7±Å¨Ò¬rÑ1‚Ã0‚¿0™0Œ1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUSFò¬\Ÿ•m0	`†He0
+	*†H†÷
+ ‚  öNNöR¼Šâ£ØƒýõñýBü7~}ºR yQ~)-¾>Â6f$ß&ŠÛH¥¤„	~OA“/©7!ñèL× À¡ù0æþNÍ¦ŠFÁ…-t€F¶s§¢üˆG…ÜåÌY[Ÿ™¾!¸:—Ø¡‰»–„¹|¬Tµ5â |OÃ Ü9ššóÖP~ÖézÈG HÃ¥›ÍÝ›Ô8×ÒÖßÿ›Íå¼‘…¹Ç•Í¨}Áö°T‡Í?$Yõz:üdQY¯þÜµ¡ÿb¤™ê›b'»‘B©f…‰Ríþ©6÷ºø3§ìk›æ¡M·õÚátÏ,Õ1b’
+t‹‘
